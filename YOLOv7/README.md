@@ -6,6 +6,7 @@ Notwendige Schritte:
   - Anpassen der custom.yaml datei:
       -   train: path/to/yolov7/data/images/train # train images
           val: path/to/yolov7/data/images/test # val images
+          
           # Classes
           nc: x  # number of classes
           names: ['klasse1', 'klasse2', 'klasse3']  # class names
